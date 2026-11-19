@@ -1,7 +1,7 @@
 /* Limite la largeur maximale de l'image à 100% de son conteneur - https://developer.mozilla.org/fr/docs/Web/CSS/max-width */
 /* Ajuste la hauteur de l'image automatiquement pour conserver les proportions - https://developer.mozilla.org/fr/docs/Web/CSS/height */
 img {
-  max-width: 100%;
+  max-width: displayWidth;
   height: auto;
 }
 
